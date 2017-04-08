@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- I9300 -->
-  <project path="device/samsung/i9300" name="hungphanvpphan/android_device_samsung_i9300" remote="github" revision="n7.1" />
-  <project path="device/samsung/smdk4412-common" name="hungphanvpphan/android_device_samsung_smdk4412-common" remote="github" revision="n7.1" />
+  <project path="device/samsung/i9300" name="hungphanvpphan/android_device_samsung_i9300" remote="github" revision="cm-14.1" />
+  <project path="device/samsung/smdk4412-common" name="hungphanvpphan/android_device_samsung_smdk4412-common" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/smdk4412" name="LineageOS/android_kernel_samsung_smdk4412" remote="github" revision="cm-14.1" />
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" clone-depth="1" remote="github" revision="cm-14.1" />
   <!-- I9300 dependencies -->
