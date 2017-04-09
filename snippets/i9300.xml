@@ -4,10 +4,9 @@
   <project path="device/samsung/i9300" name="hungphanvpphan/android_device_samsung_i9300" remote="github" revision="cm-14.1" />
   <project path="device/samsung/smdk4412-common" name="hungphanvpphan/android_device_samsung_smdk4412-common" remote="github" revision="cm-14.1" />
   <project path="kernel/samsung/smdk4412" name="LineageOS/android_kernel_samsung_smdk4412" remote="github" revision="cm-14.1" />
-  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" clone-depth="1" remote="github" revision="cm-14.1" />
+  <project path="vendor/samsung/i9300" name="TheMuppets/proprietary_vendor_samsung/i9300" clone-depth="1" remote="github" revision="cm-14.1" />
   <!-- I9300 dependencies -->
   <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1" />
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" />
   <project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-14.1" />
-
 </manifest>
